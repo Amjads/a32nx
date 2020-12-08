@@ -31,4 +31,5 @@ node_modules
 /A32NX/SimObjects/AirPlanes/Asobo_A320_NEO/model/A320_NEO_INTERIOR_LOD00.bin
 /A32NX/SimObjects/AirPlanes/Asobo_A320_NEO/model/A320_NEO_INTERIOR_LOD00.gltf
 /src/fdr2csv/*.exe
+/src/fbw/obj/
 /src/fdr2csv/build/
